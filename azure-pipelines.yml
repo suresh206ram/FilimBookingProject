@@ -1,6 +1,6 @@
 #Filim Booking Application
 trigger:
-- main
+- Master
 
 pool:
   vmImage: ubuntu-latest
